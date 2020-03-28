@@ -1,0 +1,16 @@
+zones = {
+      "Mechi": "Illam",
+      "Koshi": "Biratnagar",
+      "Sagarmatha": "Rajbiraj",
+      "Janakpur": "Jaleswor",
+      "Bagmati": "Kathmandu",
+      "Narayani": "Birgunj",
+      "Gandaki": "Pokhara",
+      "Dhaulagiri": "Baglung",
+      "Lumbini": "Butwal",
+      "Rapti": "Tulsipur",
+      "Bheri": "Birendranagar",
+      "Karnali": "Jumla",
+      "Seti": "Dhangadi",
+      "Mahakali": "Mahendranagar",
+  }
